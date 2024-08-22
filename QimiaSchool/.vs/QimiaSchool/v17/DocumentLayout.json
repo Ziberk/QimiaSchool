@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zafer Berk KARAYOL\\source\\repos\\QimiaSchool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1978019-85E7-4734-82AA-B1C72E2D5932}|QimiaSchool.DataAccess\\QimiaSchool.DataAccess.csproj|c:\\users\\zafer berk karayol\\source\\repos\\qimiaschool\\qimiaschool.dataaccess\\repository\\implementations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1978019-85E7-4734-82AA-B1C72E2D5932}|QimiaSchool.DataAccess\\QimiaSchool.DataAccess.csproj|solutionrelative:qimiaschool.dataaccess\\repository\\implementations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1978019-85E7-4734-82AA-B1C72E2D5932}|QimiaSchool.DataAccess\\QimiaSchool.DataAccess.csproj|c:\\users\\zafer berk karayol\\source\\repos\\qimiaschool\\qimiaschool.dataaccess\\repository\\abstractions\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1978019-85E7-4734-82AA-B1C72E2D5932}|QimiaSchool.DataAccess\\QimiaSchool.DataAccess.csproj|solutionrelative:qimiaschool.dataaccess\\repository\\abstractions\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Zafer Berk KARAYOL\\source\\repos\\QimiaSchool\\QimiaSchool.DataAccess\\Repository\\Implementations\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "QimiaSchool.DataAccess\\Repository\\Implementations\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\Zafer Berk KARAYOL\\source\\repos\\QimiaSchool\\QimiaSchool.DataAccess\\Repository\\Implementations\\StudentRepository.cs",
+              "RelativeToolTip": "QimiaSchool.DataAccess\\Repository\\Implementations\\StudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:43:52.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Zafer Berk KARAYOL\\source\\repos\\QimiaSchool\\QimiaSchool.DataAccess\\Repository\\Abstractions\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "QimiaSchool.DataAccess\\Repository\\Abstractions\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Zafer Berk KARAYOL\\source\\repos\\QimiaSchool\\QimiaSchool.DataAccess\\Repository\\Abstractions\\IRepositoryBase.cs",
+              "RelativeToolTip": "QimiaSchool.DataAccess\\Repository\\Abstractions\\IRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:54:25.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

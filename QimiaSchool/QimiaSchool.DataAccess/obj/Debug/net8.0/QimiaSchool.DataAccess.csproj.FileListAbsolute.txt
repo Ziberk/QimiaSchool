@@ -1,0 +1,14 @@
+C:\Users\Zafer Berk KARAYOL\source\repos\QimiaSchool\QimiaSchool.DataAccess\bin\Debug\net8.0\QimiaSchool.DataAccess.deps.json
+C:\Users\Zafer Berk KARAYOL\source\repos\QimiaSchool\QimiaSchool.DataAccess\bin\Debug\net8.0\QimiaSchool.DataAccess.runtimeconfig.json
+C:\Users\Zafer Berk KARAYOL\source\repos\QimiaSchool\QimiaSchool.DataAccess\bin\Debug\net8.0\QimiaSchool.DataAccess.dll
+C:\Users\Zafer Berk KARAYOL\source\repos\QimiaSchool\QimiaSchool.DataAccess\bin\Debug\net8.0\QimiaSchool.DataAccess.pdb
+C:\Users\Zafer Berk KARAYOL\source\repos\QimiaSchool\QimiaSchool.DataAccess\obj\Debug\net8.0\QimiaSchool.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Zafer Berk KARAYOL\source\repos\QimiaSchool\QimiaSchool.DataAccess\obj\Debug\net8.0\QimiaSchool.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zafer Berk KARAYOL\source\repos\QimiaSchool\QimiaSchool.DataAccess\obj\Debug\net8.0\QimiaSchool.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Zafer Berk KARAYOL\source\repos\QimiaSchool\QimiaSchool.DataAccess\obj\Debug\net8.0\QimiaSchool.DataAccess.AssemblyInfo.cs
+C:\Users\Zafer Berk KARAYOL\source\repos\QimiaSchool\QimiaSchool.DataAccess\obj\Debug\net8.0\QimiaSchool.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Zafer Berk KARAYOL\source\repos\QimiaSchool\QimiaSchool.DataAccess\obj\Debug\net8.0\QimiaSchool.DataAccess.dll
+C:\Users\Zafer Berk KARAYOL\source\repos\QimiaSchool\QimiaSchool.DataAccess\obj\Debug\net8.0\refint\QimiaSchool.DataAccess.dll
+C:\Users\Zafer Berk KARAYOL\source\repos\QimiaSchool\QimiaSchool.DataAccess\obj\Debug\net8.0\QimiaSchool.DataAccess.pdb
+C:\Users\Zafer Berk KARAYOL\source\repos\QimiaSchool\QimiaSchool.DataAccess\obj\Debug\net8.0\QimiaSchool.DataAccess.genruntimeconfig.cache
+C:\Users\Zafer Berk KARAYOL\source\repos\QimiaSchool\QimiaSchool.DataAccess\obj\Debug\net8.0\ref\QimiaSchool.DataAccess.dll
